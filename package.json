@@ -1,0 +1,26 @@
+{
+  "name": "ai4-create-ATF-v1",
+  "version": "1.0.0",
+  "description": "Install ai4-ATF into System",
+  "main": "index.js",
+  "bin": {
+    "create-ai4-ATF": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IshwaryaAlagesan-Ai4/ai4-create-ATF-v1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IshwaryaAlagesan-Ai4/ai4-create-ATF-v1/issues"
+  },
+  "homepage": "https://github.com/IshwaryaAlagesan-Ai4/ai4-create-ATF-v1#readme",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  }
+}
